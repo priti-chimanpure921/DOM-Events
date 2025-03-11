@@ -30,6 +30,7 @@ Event handling by using Event Listeners:
 <b>element.addEventListener</b> is a function which listens for an event.
 We can set multiple event listener to an object/element.
 </li>
+</ul>
 
 <h3>‘this’ in event handling :</h3>
 <p>
