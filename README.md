@@ -13,7 +13,7 @@ Event properties of any element starts with ‘on’ e.g ‘onclick’ , ‘ondr
 <b>Event handling by Inline way</b>
 Makes HTML code bulky.
 Rarely used.
-<li>
+</li>
 
 <li>
 Event handling by setting event property to some function.
@@ -57,7 +57,7 @@ Input.innerText property doesn’t exist for input element as text is entered by
 Input.value property will extract the data entered by user in input field.
 </p>
 
-<h3>Change event :<h3>
+<h3>Change event :</h3>
 <p>
 The change event occurs when the value of an element has been changed.
 Works only for <input> , <textarea> and <select> elements.
